@@ -27,6 +27,16 @@ limit = 150
 category = "cs.MM"
 title = "Multimedia"
 
+[[sources]]
+limit = 150
+category = "q-bio.NC"
+title = "Neurons and Cognition"
+
+[[sources]]
+limit = 150
+category = "eess.SP"
+title = "Signal Processing"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
